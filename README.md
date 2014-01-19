@@ -15,5 +15,3 @@ git push octohost master
 ```
 
 To view or rebuild the Play Framework container - [take a look here](https://github.com/octohost/play).
-
-Example site \(usually\) at [http://play-app.octohost.io](http://play-app.octohost.io)
